@@ -7,11 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="JavaFX" level="project" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../Java/Libs/ojdbc10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Libs/ojdbc10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
